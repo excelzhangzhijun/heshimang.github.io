@@ -1,0 +1,15 @@
+{
+  "name": "learn-more-v2",
+  "version": "1.0.0",
+  "description": "记录技术成长",
+  "main": "index.js",
+  "author": "hsm <hsm15031585502@163.com>",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs --temp .temp",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.20"
+  }
+}
