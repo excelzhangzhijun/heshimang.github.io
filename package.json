@@ -6,7 +6,7 @@
   "author": "hsm <hsm15031585502@163.com>",
   "license": "MIT",
   "scripts": {
-    "docs:dev": "vuepress dev docs --temp .temp",
+    "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
   },
   "devDependencies": {

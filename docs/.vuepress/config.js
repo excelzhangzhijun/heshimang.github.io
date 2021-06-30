@@ -9,7 +9,7 @@ module.exports = {
     navbar: [
       { text: '首页', link: '/'},
       { text: '收藏', link: '/cllection/'},
-      { text: '首页', link: '/life/'},
+      { text: '生活所思', link: '/life/'},
       { text: 'GitHub', link: 'https://github.com/heshimang'},
     ]
   }
